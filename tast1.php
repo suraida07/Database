@@ -22,7 +22,7 @@ $result = mysqli_query ($conn, $sql);
 </head>
 <body>
     <div>
-        <h2>Hello world</h2>
+        <a herf ="insert_from.html"<h2>Hello world</h2>
     </div>
     <table border ="1">
         <tr>
